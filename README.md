@@ -1,6 +1,6 @@
 flashChat
 
-Project was made using both cocoaPods and google Firebase 
+Project was made using both CocoaPods and google Firebase 
 
 CocoaPods Link:https://cocoapods.org/
 Google Firebase:https://firebase.google.com/
